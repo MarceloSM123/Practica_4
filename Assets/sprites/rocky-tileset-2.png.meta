@@ -1,0 +1,4581 @@
+fileFormatVersion: 2
+guid: 23d11db3dd404974685358ef770ebac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8177885507530605341
+    second: rocky-tileset-2_0
+  - first:
+      213: 7785727258089206398
+    second: rocky-tileset-2_1
+  - first:
+      213: 5325189793345643005
+    second: rocky-tileset-2_2
+  - first:
+      213: 7235132171442542632
+    second: rocky-tileset-2_3
+  - first:
+      213: 444458597138725132
+    second: rocky-tileset-2_4
+  - first:
+      213: -6307608950671957487
+    second: rocky-tileset-2_5
+  - first:
+      213: -5073038947505560069
+    second: rocky-tileset-2_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rocky-tileset-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134d227a8fad7170800000000000000
+      internalID: 8177885507530605341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72bb70d0b57c0c60800000000000000
+      internalID: 7785727258089206398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df127e927efd6e940800000000000000
+      internalID: 5325189793345643005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82855d5606a586460800000000000000
+      internalID: 7235132171442542632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0972df3db80b2600800000000000000
+      internalID: 444458597138725132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112af19141fd678a0800000000000000
+      internalID: -6307608950671957487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5a53294f1f899b0800000000000000
+      internalID: -5073038947505560069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5667114234f7469f7422f9017ddbc
+      internalID: 1753452066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54764c61cbe1844a4d0cca06fb9030
+      internalID: -849357923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c1b743792fb40438f5820c655df8ba
+      internalID: -951289665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551a97bde7fc65419038295b6866c09
+      internalID: -1788922184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49695b820b4df7444bb4db921482bbd7
+      internalID: -1752833903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a9018f85941746b3294c58525c968
+      internalID: 1445241795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515bc89541e5dd429c91b9ed2a8da07
+      internalID: 1018119303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a42ab82fb82a74ea31a87c3c89b2ed
+      internalID: -910642456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f216fe14d36e41b18dddf25dbd058
+      internalID: 1801852580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b12e472a3ca05459fab1a129f172c3
+      internalID: 1051983767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400faab9b060a042822d27c737158f0
+      internalID: 273238083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a329b67d7bb47044b9eac861f444f30
+      internalID: -1522244714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e91c81bd6d01447857fb8d3dc809b8
+      internalID: -1864802332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbe599780ac8840836191958f01661
+      internalID: -313724228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2473d8f30dd848b200396a1008a19
+      internalID: 91231469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad857d003f85c0648b3e534a3a7204f9
+      internalID: -2106604686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de600a47aa657540918f7e9a20ee2b8
+      internalID: 847692059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd3719f9ab415348bb7d60239fd7a24
+      internalID: -2079943085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4861bac1f425489182b1980bd4992
+      internalID: -377266498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ff35cda4139540808c827812ef933
+      internalID: -2112843728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df67fd1d9225174fadfae957233aa84
+      internalID: 143264196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181300f1b2869840a4dae4a573122ee
+      internalID: -1692515664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62590f38510747747930c6ba10ff8f82
+      internalID: -519364471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364f6913a947b94aa09477c1bca973d
+      internalID: 611272909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478e4f9bff0d574bae40c54558ed84b
+      internalID: -1018110437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870f58541174a04f944966fc1eb16b7
+      internalID: 764260750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffec800262344943ab13ac152fc8f51
+      internalID: 489264760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635b5f9283c37f4dbcb828c897cd053
+      internalID: -78187385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52584abe2939121468eaac8976a834ae
+      internalID: 2071629562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a0a18fe2e7054791b05939d197c2f
+      internalID: 1993959039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcb46a4b3e3de429773398c980045d
+      internalID: -758243822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a4566b01f5b741a048b648b77717f
+      internalID: 115276411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc316dca873e43479b99de18e3d6690
+      internalID: 1367850208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb7f49363b2d74798e3f4439db22ad
+      internalID: 549517412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865ddff4e0f6694fb9d93cfddd470ec
+      internalID: -1072928128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd3b1def3e2cdc4fa4634bd76180568
+      internalID: 2018762059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4a4cd66c75934eabdc5cdcbce3606
+      internalID: -143212463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e4d4311de5224b9689f9e03f33db3
+      internalID: 1792254975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701e01c64cbf7444ab14d9f9221fd85
+      internalID: 406326666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984e591306109b4d80e0ccd1591266c
+      internalID: 596738311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcdafd6f40f534ebddd67a4b472cdc
+      internalID: 223162410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662233491c9048d439b66378b4e3657b
+      internalID: 1462657083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9cf09d0326764badcf7100f6f38af
+      internalID: 303110443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afac97b9e56f934597718361a93fb75
+      internalID: 1487497729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_51
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02541a045ee7f674faf520d7dd9c6253
+      internalID: -1830056949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e241201c1b64745aad6b360fb5ba8d
+      internalID: 815025531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87832b736454da34bbeabdfb6cbce761
+      internalID: -650698721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45ea653de86c84cb5a8f12b3d396b4
+      internalID: -933004469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfedf60a87626674fb5c448767524283
+      internalID: 127806748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d65de15f8cf74fa6f21f5a86b538c
+      internalID: 2040371466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14259e06bd77b70458efc96643f0b419
+      internalID: -762324373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcda5712f657f84db39cd5e15afa983
+      internalID: -1913161046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e032102e66127546a6e25efb136be59
+      internalID: -314586210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455dce771af56147bdc78a0cfed3894
+      internalID: 1102675898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec46282da598e418850ea039f521a1
+      internalID: 513837839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a5939173215544bb31ecee13712e7
+      internalID: 1728225804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414dcf96244afe42a7d7c4095663fd1
+      internalID: 459590725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb2b14aef3dff498144647fd4af986
+      internalID: 2031389399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb183a286ccdf044d84deab1cd6a9e61
+      internalID: -1487646064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1adf8a79889a04eb244223cab69d95
+      internalID: -1799385359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e2170dd05f56439806c5cbfd32b8f
+      internalID: 2112967074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_68
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e12c9d2354f0614fa8eb80664d43eca
+      internalID: 2057386270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72224ee806966ae4984e64334837d8ae
+      internalID: 172461786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_70
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d39797b3763284681ff8fded486224
+      internalID: -299411143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929331d5314da145b32527d893ce27b
+      internalID: 434472878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15142c946491c949a7203cc1249f17b
+      internalID: -893242959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5d07a3e8ffb24891b707e07c9716c
+      internalID: 717498548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2a9a8e3f7cd241a19760d77a17b34
+      internalID: 1480205465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d10b5cacc6e1459c235e9c8ef53ab
+      internalID: -1937143231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa79dae9711f424bb5e79473e76b545
+      internalID: -415218250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed7569d47a9cdd4f9be5cc869b08619
+      internalID: 1177502527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486cdd0a34ff114cbab8124eb133adb
+      internalID: -362591027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e01fe644d1ba43a1b70842b902f20
+      internalID: 1776454002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232f1d6fcc5d654d9471471e90f147d
+      internalID: -751800996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c75b42b10b3040b598cab14f58b2c
+      internalID: 635353700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8105928df82542aa8e5388563642b
+      internalID: 853749874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8001ff72b128d4e9e37f50bbe7b5e7
+      internalID: 509202775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5b5aacb6650446adbfa086815d03b
+      internalID: -1503802870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0724f5efa07b45855ae7b3d113c4d
+      internalID: 1786831266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_86
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8478151d28d8e478f08af2e14fbcfe
+      internalID: 1068931637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_87
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a840907fbd304fa7de42eab262653
+      internalID: 605161379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_88
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2805ee2b0fb9804f9f3490b82f21ce2
+      internalID: 2027103914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe08ea82f380144b4322443ded615c
+      internalID: -1467416281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_90
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7be0c8d0bf634f98328e519652c1a
+      internalID: -375920167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef8bcb3bfc72e4b89152949500e1f7
+      internalID: 1473498652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ba98edfeb3c847843c11fa0315f1b
+      internalID: -327042424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f301300bd29877439ce7ebe60ef7ba7
+      internalID: -1097209374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0edbd4c4bf95f4abc9a9f93bd11aeb
+      internalID: 359732760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d1d721217e1c34499e7b6689f3c55e
+      internalID: -1550118921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_96
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344e2aee11a9194bb18467ad035185f
+      internalID: -1735842963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab0fce47f9fe7448fe12fa9f95a5fd
+      internalID: -784270614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_98
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a088f34c49586d4b8f960378a3ddfa5
+      internalID: -1443849125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1edb10ce9a22b5478257d29555514ac
+      internalID: 6643203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b6a3fe6323f146965b15e6107636a
+      internalID: 349625400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc87df42a9b14e41b94c429318d43e6
+      internalID: 69772214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98b5487156fab4495ac355863b49e6
+      internalID: 1028005797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42faa89a453f29a4796d230d50a5e53f
+      internalID: 626120366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_104
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e5624de67a4b4f89f627541d5da93
+      internalID: 1496481101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_105
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a52bb45619b4419dff20bcc6cace9
+      internalID: 11991726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b0b2e47a3be04b850cb6edcf9368b
+      internalID: 738622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1719c82b054e12458f6b31539ec322c
+      internalID: -1321420400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679eae479a64d149bdb0489e518e7e2
+      internalID: 1906533976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94386069deaddb4881860b282e09f86
+      internalID: -562912602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0776f48194a0604a9a8ebedda56e4b5
+      internalID: -1255118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa866fd989f48459c30d0892fc2c64
+      internalID: 815397831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d20d22edad19458ec5b2bdfcbc92e
+      internalID: -2045503969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62265a8d44384e14da2d33a4685a12fd
+      internalID: 659534533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeea2933ae362d4fa280241b8eaf807
+      internalID: -337117016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2273b7fd8c3a46a24b49bff3ab349
+      internalID: -1937202169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_116
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b3048f5b587f46867bb67c5cd6968
+      internalID: -422556609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517d18844a700543bc1f91ebcd3873d
+      internalID: 1866020699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_118
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289bc0601200dc40b3a68625efa64fb
+      internalID: 75724987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_119
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb97d15661478409c11f6cd88afb2c
+      internalID: -1578584108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_120
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd083524ceff354a8b2cdc0cca6d357
+      internalID: 733753131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073464efca5345d45953c3751907060c
+      internalID: 1356102580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff69ad17bf4604cb05cc1406dc6cff
+      internalID: -1933027308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2e7c41dc455b45a26c01de339fbc8
+      internalID: 1512826962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_124
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3285ca9e876e604bad9ab635b19fe39
+      internalID: 2070769224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_125
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28287006ac3a8cc4a99d838b111a3468
+      internalID: -1926146541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_126
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701036973fbcbc468ad36b56fea19db
+      internalID: 1024833939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_127
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398879b795ba2d5479f278bed14c22d9
+      internalID: 682228432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075e987f6cadff4ba4cc1d5703dc3dd
+      internalID: -1723168952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534cb4d407e0d1b40a5c9d8134462af2
+      internalID: -1133692342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e80d527018354092279d7b8bf3ddf
+      internalID: -931705360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_131
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb65fb314c59e42b36ec58a76227b5
+      internalID: -2122465272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_132
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a4bf6d17fdc749a949b0847d5a754
+      internalID: -1964628172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_133
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a76b9a55e48947bfe651b348712c4
+      internalID: -1054524300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_134
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb12424cb2e2344accefdafe998dc3
+      internalID: -772931253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d218431d2cb6f04bb79f018db2060dd
+      internalID: -1265447796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_136
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb34832043e71b428a3d3822e5d91ae
+      internalID: 1206498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538c609c1d5f01441844948b583cd12b
+      internalID: 145960296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5c2b2ec46a8a49a8d5b795340a1e4
+      internalID: 647320087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_139
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab395808c62224428a16cd708b56103
+      internalID: -448500225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_140
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ace164cb019cb4988967f050d0edfc
+      internalID: -752878909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b42ecf76c4c14ab42873b3bf569a9
+      internalID: -1825415733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_142
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f1b8d66106b043a649b326e84c189
+      internalID: 1121774395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_143
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfccae786059bc545a18433072334064
+      internalID: -2002900647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_144
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27f711cc753c142a04e611c7512cbf
+      internalID: 223344338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7531503bfa2142aa279d8ed9844e8
+      internalID: 526016472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e47ca0688425e48a6b3ee9b444be8f
+      internalID: -116116825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_147
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49663fa3e4e4448adc930d4dcbbf0a
+      internalID: 325908737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_148
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc27bbea8420748836dc7ba6d9804a
+      internalID: 643160492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_149
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57155e47a4bb4234d8d618856dce1c98
+      internalID: 611114140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0d904cab3b604cba1bb62ecc0d203
+      internalID: 1291123969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_151
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f5f7d48cf73d489cfcf1a954bc8fd
+      internalID: 1355953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_152
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a9c013a9d0874e94676713e1e277c
+      internalID: -1146852132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c928e5c66634c419d194b0043f776c
+      internalID: -729816421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_154
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0bf7398f7d2742b5cf5aee6bb32cf
+      internalID: -453563830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_155
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2730d3bf7c9ba4681e35c78522b080
+      internalID: -288754608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_156
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eacf548a497b1e489f07d04c91eed13
+      internalID: -315504365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_157
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b1da8edea93924d95a0720372741a2
+      internalID: 1842110521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_158
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a173f3ee06104da403532426c20d3
+      internalID: 1815629496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc324fccd96e34bab798f3e8e898e9
+      internalID: 117843160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_160
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b6bdec61498844a03c3fda509befb
+      internalID: 303899464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38328bd27c3836741bd79fd495b73147
+      internalID: -285983164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_162
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1844c76bbb5c0440a92055bac599436
+      internalID: 524094779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04286b2e64f046449381610925b0095
+      internalID: -675457046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_164
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d191b24a902a54b9c42fea21d758ac
+      internalID: -699718183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90251ea8a2ab693478c327bebc7287e0
+      internalID: 1750372239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_166
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36329a2a2c703f4ba02202da0f08482
+      internalID: 1130740252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_167
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922583ae7d47d2247a76f38b4e437b24
+      internalID: -879799107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_168
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0389d69c66734591fdcf1b82e182e
+      internalID: 1400791310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b50fb8cdc231b428e07efce826bc1b
+      internalID: -684646303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_170
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec09741841099640a3e5e851105c62a
+      internalID: -2040877145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_171
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d578e66e449b64193c36532c594972
+      internalID: -1633768298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_172
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8881322f340f5a4b8d3321b0c2e669c
+      internalID: -1743711834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_173
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d649bfe3faefc24786ba831626c7386
+      internalID: 908603505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_174
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb8658c329cf64cbb8ac4fe974e5c0
+      internalID: -1990759974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_175
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5933d5eaf185d4591ee529bce398f1
+      internalID: 1797348617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_176
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab002a1e8578c9449ce25d165135306
+      internalID: 932339507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07d49af0de3cd40a87d4f12df17a79
+      internalID: 993695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_178
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90809db7cb9484f886d3dbe27b1db7
+      internalID: -258428448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_179
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b1a1fa0b6b354d96c4ca63182d8fa
+      internalID: -1698642346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_180
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b110377fd676e24d86a019e1602a26c
+      internalID: 7887211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_181
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436ab73d1bf4644db00c6c83e05d9fb
+      internalID: 1488538652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_182
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cd6edfef158f4e8f94381f61a05b3
+      internalID: 1006043224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_183
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91cc9aa399ad3642a0a7df03865c05c
+      internalID: -1994189664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_184
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382b43de1b3be14381c6b7972e1a341
+      internalID: -1418799317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67226d6d808818e40a0bce11b91fb947
+      internalID: -610613027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_186
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d59a975c854ee43af92babc72f61e3
+      internalID: -1883924325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_187
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12fe135d2a6c54096cb63a46b36842
+      internalID: 289205680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_188
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc8b538caead744a8ae301672ca945
+      internalID: 346861336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_189
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55879fca4ac6d5a42a490197928dd2d8
+      internalID: 1632981790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_190
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b3d146419086e4db6830ccf5d1b03e
+      internalID: -1745251937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_191
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc7aed6d5311b4a9112625a00c9537
+      internalID: -1120347872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-tileset-2_192
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685e4b545372e5458dd2638ff108f72
+      internalID: 759710516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea2014cc032e75a4b9e19745f64357e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":15.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rocky-tileset-2_0: 8177885507530605341
+      rocky-tileset-2_1: 7785727258089206398
+      rocky-tileset-2_10: -1788922184
+      rocky-tileset-2_100: 349625400
+      rocky-tileset-2_101: 69772214
+      rocky-tileset-2_102: 1028005797
+      rocky-tileset-2_103: 626120366
+      rocky-tileset-2_104: 1496481101
+      rocky-tileset-2_105: 11991726
+      rocky-tileset-2_106: 738622666
+      rocky-tileset-2_107: -1321420400
+      rocky-tileset-2_108: 1906533976
+      rocky-tileset-2_109: -562912602
+      rocky-tileset-2_11: -1752833903
+      rocky-tileset-2_110: -1255118527
+      rocky-tileset-2_111: 815397831
+      rocky-tileset-2_112: -2045503969
+      rocky-tileset-2_113: 659534533
+      rocky-tileset-2_114: -337117016
+      rocky-tileset-2_115: -1937202169
+      rocky-tileset-2_116: -422556609
+      rocky-tileset-2_117: 1866020699
+      rocky-tileset-2_118: 75724987
+      rocky-tileset-2_119: -1578584108
+      rocky-tileset-2_12: 1445241795
+      rocky-tileset-2_120: 733753131
+      rocky-tileset-2_121: 1356102580
+      rocky-tileset-2_122: -1933027308
+      rocky-tileset-2_123: 1512826962
+      rocky-tileset-2_124: 2070769224
+      rocky-tileset-2_125: -1926146541
+      rocky-tileset-2_126: 1024833939
+      rocky-tileset-2_127: 682228432
+      rocky-tileset-2_128: -1723168952
+      rocky-tileset-2_129: -1133692342
+      rocky-tileset-2_13: 1018119303
+      rocky-tileset-2_130: -931705360
+      rocky-tileset-2_131: -2122465272
+      rocky-tileset-2_132: -1964628172
+      rocky-tileset-2_133: -1054524300
+      rocky-tileset-2_134: -772931253
+      rocky-tileset-2_135: -1265447796
+      rocky-tileset-2_136: 1206498765
+      rocky-tileset-2_137: 145960296
+      rocky-tileset-2_138: 647320087
+      rocky-tileset-2_139: -448500225
+      rocky-tileset-2_14: -910642456
+      rocky-tileset-2_140: -752878909
+      rocky-tileset-2_141: -1825415733
+      rocky-tileset-2_142: 1121774395
+      rocky-tileset-2_143: -2002900647
+      rocky-tileset-2_144: 223344338
+      rocky-tileset-2_145: 526016472
+      rocky-tileset-2_146: -116116825
+      rocky-tileset-2_147: 325908737
+      rocky-tileset-2_148: 643160492
+      rocky-tileset-2_149: 611114140
+      rocky-tileset-2_15: 1801852580
+      rocky-tileset-2_150: 1291123969
+      rocky-tileset-2_151: 1355953784
+      rocky-tileset-2_152: -1146852132
+      rocky-tileset-2_153: -729816421
+      rocky-tileset-2_154: -453563830
+      rocky-tileset-2_155: -288754608
+      rocky-tileset-2_156: -315504365
+      rocky-tileset-2_157: 1842110521
+      rocky-tileset-2_158: 1815629496
+      rocky-tileset-2_159: 117843160
+      rocky-tileset-2_16: 1051983767
+      rocky-tileset-2_160: 303899464
+      rocky-tileset-2_161: -285983164
+      rocky-tileset-2_162: 524094779
+      rocky-tileset-2_163: -675457046
+      rocky-tileset-2_164: -699718183
+      rocky-tileset-2_165: 1750372239
+      rocky-tileset-2_166: 1130740252
+      rocky-tileset-2_167: -879799107
+      rocky-tileset-2_168: 1400791310
+      rocky-tileset-2_169: -684646303
+      rocky-tileset-2_17: 273238083
+      rocky-tileset-2_170: -2040877145
+      rocky-tileset-2_171: -1633768298
+      rocky-tileset-2_172: -1743711834
+      rocky-tileset-2_173: 908603505
+      rocky-tileset-2_174: -1990759974
+      rocky-tileset-2_175: 1797348617
+      rocky-tileset-2_176: 932339507
+      rocky-tileset-2_177: 993695598
+      rocky-tileset-2_178: -258428448
+      rocky-tileset-2_179: -1698642346
+      rocky-tileset-2_18: -1522244714
+      rocky-tileset-2_180: 7887211
+      rocky-tileset-2_181: 1488538652
+      rocky-tileset-2_182: 1006043224
+      rocky-tileset-2_183: -1994189664
+      rocky-tileset-2_184: -1418799317
+      rocky-tileset-2_185: -610613027
+      rocky-tileset-2_186: -1883924325
+      rocky-tileset-2_187: 289205680
+      rocky-tileset-2_188: 346861336
+      rocky-tileset-2_189: 1632981790
+      rocky-tileset-2_19: -1864802332
+      rocky-tileset-2_190: -1745251937
+      rocky-tileset-2_191: -1120347872
+      rocky-tileset-2_192: 759710516
+      rocky-tileset-2_2: 5325189793345643005
+      rocky-tileset-2_20: -313724228
+      rocky-tileset-2_21: 91231469
+      rocky-tileset-2_22: -2106604686
+      rocky-tileset-2_23: 847692059
+      rocky-tileset-2_24: -2079943085
+      rocky-tileset-2_25: -377266498
+      rocky-tileset-2_26: -2112843728
+      rocky-tileset-2_27: 143264196
+      rocky-tileset-2_28: -1692515664
+      rocky-tileset-2_29: -519364471
+      rocky-tileset-2_3: 7235132171442542632
+      rocky-tileset-2_30: 611272909
+      rocky-tileset-2_31: -1018110437
+      rocky-tileset-2_32: 764260750
+      rocky-tileset-2_33: 489264760
+      rocky-tileset-2_34: -78187385
+      rocky-tileset-2_35: 2071629562
+      rocky-tileset-2_36: 1993959039
+      rocky-tileset-2_37: -758243822
+      rocky-tileset-2_38: 115276411
+      rocky-tileset-2_39: 1367850208
+      rocky-tileset-2_4: 444458597138725132
+      rocky-tileset-2_40: 549517412
+      rocky-tileset-2_41: -1072928128
+      rocky-tileset-2_42: 2018762059
+      rocky-tileset-2_43: -143212463
+      rocky-tileset-2_44: 1792254975
+      rocky-tileset-2_45: 406326666
+      rocky-tileset-2_46: 596738311
+      rocky-tileset-2_47: 223162410
+      rocky-tileset-2_48: 1462657083
+      rocky-tileset-2_49: 303110443
+      rocky-tileset-2_5: -6307608950671957487
+      rocky-tileset-2_50: 1487497729
+      rocky-tileset-2_51: -1830056949
+      rocky-tileset-2_52: 815025531
+      rocky-tileset-2_53: -650698721
+      rocky-tileset-2_54: -933004469
+      rocky-tileset-2_55: 127806748
+      rocky-tileset-2_56: 2040371466
+      rocky-tileset-2_57: -762324373
+      rocky-tileset-2_58: -1913161046
+      rocky-tileset-2_59: -314586210
+      rocky-tileset-2_6: -5073038947505560069
+      rocky-tileset-2_60: 1102675898
+      rocky-tileset-2_61: 513837839
+      rocky-tileset-2_62: 1728225804
+      rocky-tileset-2_63: 459590725
+      rocky-tileset-2_64: 2031389399
+      rocky-tileset-2_65: -1487646064
+      rocky-tileset-2_66: -1799385359
+      rocky-tileset-2_67: 2112967074
+      rocky-tileset-2_68: 2057386270
+      rocky-tileset-2_69: 172461786
+      rocky-tileset-2_7: 1753452066
+      rocky-tileset-2_70: -299411143
+      rocky-tileset-2_71: 434472878
+      rocky-tileset-2_72: -893242959
+      rocky-tileset-2_73: 717498548
+      rocky-tileset-2_74: 1480205465
+      rocky-tileset-2_75: -1937143231
+      rocky-tileset-2_76: -415218250
+      rocky-tileset-2_77: 1177502527
+      rocky-tileset-2_78: -362591027
+      rocky-tileset-2_79: 1776454002
+      rocky-tileset-2_8: -849357923
+      rocky-tileset-2_80: -751800996
+      rocky-tileset-2_81: 635353700
+      rocky-tileset-2_82: 853749874
+      rocky-tileset-2_83: 509202775
+      rocky-tileset-2_84: -1503802870
+      rocky-tileset-2_85: 1786831266
+      rocky-tileset-2_86: 1068931637
+      rocky-tileset-2_87: 605161379
+      rocky-tileset-2_88: 2027103914
+      rocky-tileset-2_89: -1467416281
+      rocky-tileset-2_9: -951289665
+      rocky-tileset-2_90: -375920167
+      rocky-tileset-2_91: 1473498652
+      rocky-tileset-2_92: -327042424
+      rocky-tileset-2_93: -1097209374
+      rocky-tileset-2_94: 359732760
+      rocky-tileset-2_95: -1550118921
+      rocky-tileset-2_96: -1735842963
+      rocky-tileset-2_97: -784270614
+      rocky-tileset-2_98: -1443849125
+      rocky-tileset-2_99: 6643203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
